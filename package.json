@@ -1,0 +1,21 @@
+{
+  "name": "desafioroommates",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "dev": "nodemon index.js"
+  },
+  "keywords": [],
+  "author": "Jorge Leiva",
+  "license": "MIT",
+  "description": "Desafío 1: Roommates. Modulo 8",
+  "dependencies": {
+    "axios": "^1.7.2",
+    "express": "^4.19.2",
+    "uuid": "^9.0.1"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.3"
+  }
+}
